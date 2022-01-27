@@ -1,0 +1,57 @@
+Name,ASSIGNMENT NAME,GRADES,Time Studied
+Bob,GEOGRAPHY_TEST_1,90,1:30HRS
+OSCAR,GEOGRAPHY_TEST_1,80,1:15HRS
+TED,GEOGRAPHY_TEST_1,70,45mins
+WINONA,GEOGRAPHY_TEST_1,85,1:30HRS
+FRED,GEOGRAPHY_TEST_1,100,45mins
+CHILE,GEOGRAPHY_TEST_1,87,1:30HRS
+NORMA,GEOGRAPHY_TEST_1,92,1:30HRS
+AARON,GEOGRAPHY_TEST_1,87,1:15HRS
+SHERYL,geography test 1,85,1:15HRS
+LUIS,geograPHY_TEST_1,90,1:30HRS
+ED,GEOGRAPHY_TEST_1,72,1:15HRS
+EDDY,Test 1 geo,90,1:15HRS
+FINN,GEOGRAPHY_TEST_1,94,1:30HRS
+JAKE,GEOGRAPHY_TEST_1,60,30 MINS
+Bob,Math_test_1,85,2:00RS
+OSCAR,Math_test_1,80,2:00RS
+TED,Math_test_1,70,01:30:00 AM
+WINONA,Math_test_1,80,2:00RS
+FRED,Math_test_1,95,2:00RS
+CHILE,Math_test_1,82,01:30:00 AM
+NORMA,Math_test_1,85,2:00RS
+AARON,Math_test_1,75,1:15HRS
+SHERYL,Math_test_1,78,1:15HRS
+LUIS,Math_test_1,90,01:30:00 AM
+ED,Math_test_1,72,2:00RS
+EDDY,Math_test_1,65,1:15HRS
+FINN,Math_test_1,72,1:15HRS
+JAKE,Math_test_1,75,01:30:00 AM
+Bob,writing_take_hoome_test,95,2:00RS
+OSCAR,writing_take_hoome_test,80,1:15HRS
+TED,writing_take_hoome_test,40,30 MINS
+WINONA,writing_take_hoome_test,80,1:15HRS
+FRED,writing_take_hoome_test,99,2:00RS
+CHILE,writing_take_hoome_test,82,1:15HRS
+NORMA,writing_take_hoome_test,100,2:00RS
+AARON,writing_take_hoome_test,95,2:00RS
+SHERYL,writing_take_hoome_test,91,2:00RS
+LUIS,writing_take_hoome_test,80,1:15HRS
+ED,writing_take_hoome_test,72,1:15HRS
+EDDY,writing_take_hoome_test,65,30 MINS
+FINN,writing_take_hoome_test,72,1:15HRS
+JAKE,writing_take_hoome_test,95,3:00HRS
+Bob,programming_test_1,91,1:00RS
+OSCAR,programming_test_1,96,3:00HRS
+TED,programming_test_1,92,3:00HRS
+WINONA,programming_test_1,90,1:00RS
+FRED,programming_test_1,99,1:00RS
+CHILE,programming_test_1,100,1:00RS
+NORMA,programming_test_1,100,2:00RS
+AARON,programming_test_1,98,2:00RS
+SHERYL,programming_test_1,100,2:00RS
+LUIS,programming_test_1,92,2:00RS
+ED,programming_test_1,100,1:00RS
+EDDY,programming_test_1,100,1:00RS
+FINN,programming_test_1,99,1:00RS
+JAKE,programming_test_1,100,1:00RS
